@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tristazcy7.github.io</id>
+    <title>Where No One Knows</title>
+    <updated>2025-01-14T06:08:37.957Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tristazcy7.github.io"/>
+    <link rel="self" href="https://tristazcy7.github.io/atom.xml"/>
+    <subtitle>Enjoy the butterflies</subtitle>
+    <logo>https://tristazcy7.github.io/images/avatar.png</logo>
+    <icon>https://tristazcy7.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Where No One Knows</rights>
+    <entry>
+        <title type="html"><![CDATA[2025.1.13 我第一次有了自己的网站]]></title>
+        <id>https://tristazcy7.github.io/post/2025113-wo-di-yi-ci-you-liao-zi-ji-de-wang-zhan/</id>
+        <link href="https://tristazcy7.github.io/post/2025113-wo-di-yi-ci-you-liao-zi-ji-de-wang-zhan/">
+        </link>
+        <updated>2025-01-13T16:04:56.000Z</updated>
+        <content type="html"><![CDATA[<p>不对，小学还是初中的信息课好像也做过网站？<br>
+但是哪里来的hosting和domain呢…🤔<br>
+晚上实在没事情干，突发奇想打算自己翻译一下维斯塔潘的那本传记。但是发在什么平台上好呢？脑子里过了一遍各大平台，发现都各有利弊。我是想找一个比较纯粹的博客网站在上面写写东西，感觉很有意思，可是像新浪博客之类的网站都是只存在于互联网的历史中的遗迹了。于是我开始研究怎么建立个人网站。本来想自己学一学，用Wordpress建个站，心想要是学会了说不定还能在简历上加个技能，结果看到买域名那里我就开始头晕，于是就这样放弃了自学。而且教程全英文，看了个instruction就看不动了。<br>
+后来在网上看到有人说GitHub+Gridea这样操作比较方便，我就按照教程试了一下，发现还真的挺简单，很快就可以弄好。就是Gridea的同步有点小问题，一直说同步不了要等配置完才能同步，但是实际上好像也同步上了？<br>
+折腾了半天已经十二点多。总之，从今天起，我也是有了一个自己的小树洞。先这样随便写点吧，主要是纪念一下我的第一个个人网站。眼睛好疼我要去洗澡睡觉了。</p>
+]]></content>
+    </entry>
+</feed>
